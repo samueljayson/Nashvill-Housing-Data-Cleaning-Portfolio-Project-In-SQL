@@ -10,6 +10,9 @@ The objective of this project is to clean and preprocess the Nashville housing d
 # Key features of the project include:
 
 1.Identification and removal of duplicate records.
+
 2.Standardization of date formats.
+
 3.Updating Data.
+
 4.Breaking Address into Multiple Columns
