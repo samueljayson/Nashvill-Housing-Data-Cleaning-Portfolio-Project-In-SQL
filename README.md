@@ -15,4 +15,4 @@ The objective of this project is to clean and preprocess the Nashville housing d
 
 3.Updating Data.
 
-4.Breaking Address into Multiple Columns
+4.Breaking Address into Multiple Columns.
